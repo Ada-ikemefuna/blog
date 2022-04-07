@@ -1,0 +1,19 @@
+.content{
+    margin-bottom: 2rem;
+    background-color: blueviolet;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.nav_links{
+    margin-left: auto;
+}
+
+.nav_links a{
+    color: white;
+    text-decoration: none;
+    margin-left: 1rem;
+    padding: 7px;
+}
